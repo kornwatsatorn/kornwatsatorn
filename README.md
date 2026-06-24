@@ -1,4 +1,4 @@
-# Hi, I'm Korn 👋
+# Hi, I'm Jame 👋
 
 ### Technical Problem Solver • Full Stack Developer • Solutions Architect
 
