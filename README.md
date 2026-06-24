@@ -146,7 +146,16 @@ Bridging business requirements and software implementation.
 
 ## Connect
 
-* GitHub: https://github.com/kornwatsatorn
+<p>
+  <a href="https://github.com/kornwatsatorn">
+    <img src="https://img.shields.io/badge/GitHub-kornwatsatorn-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/kws.jm">
+    <img src="https://img.shields.io/badge/Instagram-@kws.jm-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
